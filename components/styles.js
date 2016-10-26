@@ -38,9 +38,9 @@ let style = {
     top: 0,
     left: 0,
     borderRadius: '50%',
-    width: 30,
-    height: 30,
-    marginLeft: 2,
+    width: 40,
+    height: 40,
+    marginLeft: -2,
     background: '#e9f0f5',
     border: '2px solid #6fba1c'
   },
@@ -51,8 +51,8 @@ let style = {
     position: 'relative',
     left: '50%',
     top: '50%',
-    marginLeft: -8,
-    marginTop: -8
+    marginLeft: -18,
+    marginTop: -18
   },
   eventContent: {
     position: 'relative'
